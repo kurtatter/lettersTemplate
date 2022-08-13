@@ -1,0 +1,4 @@
+Aloha, $fullname!
+Our company exists for your city $city!
+Your gift for first buy is: $$$gift
+Welcome to our company!

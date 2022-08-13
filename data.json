@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "fullname": "Sam Flynn",
+      "city": "LA",
+      "gift": 2000
+    },
+    {
+      "fullname": "John Smith",
+      "city": "NY",
+      "gift": 4500
+    }
+  ]
+}
